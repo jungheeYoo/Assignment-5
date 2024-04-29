@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(235, 203, 61);
+}
+
+h1 {
+  color: white;
+}
+
+.width__big {
+  background-color: rgb(235, 203, 61);
+}
+
+.width__medium {
+  background-color: rgb(168, 49, 168);
+}
+
+.width__small {
+  background-color: rgb(55, 163, 206);
+}
